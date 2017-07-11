@@ -1,5 +1,5 @@
 ################################################################################################
-# Below code is highly inspired from http://iamtrask.github.io/2015/07/12/basic-python-network/#
+# Below code is inspired from http://iamtrask.github.io/2015/07/12/basic-python-network/#
 ################################################################################################
 
 
