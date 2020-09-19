@@ -1,4 +1,5 @@
-# TensorFlow Basics
+# This repo is for older version and is no longer updated 
+## TensorFlow 1.x Basics -
 
 >This Repository consists of TensorFlow Tutorials for the beginners who are starting with the basics and want to play around with its capabilities in machine learning and data science. 
 
