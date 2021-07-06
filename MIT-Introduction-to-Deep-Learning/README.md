@@ -6,7 +6,8 @@ http://introtodeeplearning.com/
 
 ### Lecture 1 : Intro to Deep Learning
 ### Lecture 2 : Deep Sequence Modeling
-### Software Lab 1 : Intro to TensorFlow; Music Generation [notebook] ()
+### Software Lab 1 : Intro to TensorFlow; Music Generation 
+[notebook] ()
 ### Lecture 3 : 
 ### Lecture 4 : 
 ### Lecture 5 : 
