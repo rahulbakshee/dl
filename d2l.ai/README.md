@@ -1,16 +1,16 @@
 # d2l.ai
 
 
-- [ ] 1. Introduction
-  - [ ] 1.1. A Motivating Example
-  - [ ] 1.2. Key Components
-  - [ ] 1.3. Kinds of Machine Learning Problems
-  - [ ] 1.4. Roots
-  - [ ] 1.5. The Road to Deep Learning
-  - [ ] 1.6. Success Stories
-  - [ ] 1.7. Characteristics
-  - [ ] 1.8. Summary
-  - [ ] 1.9. Exercises
+- [X] 1. Introduction
+  - [X] 1.1. A Motivating Example
+  - [X] 1.2. Key Components
+  - [X] 1.3. Kinds of Machine Learning Problems
+  - [X] 1.4. Roots
+  - [X] 1.5. The Road to Deep Learning
+  - [X] 1.6. Success Stories
+  - [X] 1.7. Characteristics
+  - [X] 1.8. Summary
+  - [X] 1.9. Exercises
 - [ ] 2. Preliminaries
   - [ ] 2.1. Data Manipulation
   - [ ] 2.2. Data Preprocessing
