@@ -1,5 +1,6 @@
-# d2l.ai
+# d2l.ai Dive into Deep Learning
 
+### [d2l.ai](https://d2l.ai/)
 
 - [X] 1. Introduction
   - [X] 1.1. A Motivating Example
@@ -12,9 +13,9 @@
   - [X] 1.8. Summary
   - [X] 1.9. Exercises
 - [ ] 2. Preliminaries
-  - [ ] 2.1. Data Manipulation
-  - [ ] 2.2. Data Preprocessing
-  - [ ] 2.3. Linear Algebra
+  - [X ] 2.1. Data Manipulation
+  - [X] 2.2. Data Preprocessing
+  - [X] 2.3. Linear Algebra
   - [ ] 2.4. Calculus
   - [ ] 2.5. Automatic Differentiation
   - [ ] 2.6. Probability
