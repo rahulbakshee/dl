@@ -11,12 +11,12 @@
   - [X] 1.6. Success Stories
   - [X] 1.7. Characteristics
   - [X] 1.8. Summary
-  - [X] 1.9. Exercises
+  - [ ] 1.9. Exercises
 - [ ] 2. Preliminaries
   - [X ] 2.1. Data Manipulation
   - [X] 2.2. Data Preprocessing
   - [X] 2.3. Linear Algebra
-  - [ ] 2.4. Calculus
+  - [X] 2.4. Calculus
   - [ ] 2.5. Automatic Differentiation
   - [ ] 2.6. Probability
   - [ ] 2.7. Documentation
