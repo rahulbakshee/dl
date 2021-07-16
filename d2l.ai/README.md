@@ -17,7 +17,7 @@
   - [X] 2.2. Data Preprocessing
   - [X] 2.3. Linear Algebra
   - [X] 2.4. Calculus
-  - [ ] 2.5. Automatic Differentiation
+  - [X] 2.5. Automatic Differentiation
   - [ ] 2.6. Probability
   - [ ] 2.7. Documentation
 - [ ] 3. Linear Neural Networks
