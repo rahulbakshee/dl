@@ -18,12 +18,12 @@ There are some ususal recommendations for working on **`Class Imbalance`** such 
 - Ensemble of Algorithms.
 - Cross Validation strategy with StratifiedKFold.
 - Neural Networks and Deep Learning.
-### Semi-Supervised Learning
-- Instead of Classification, reframe problem as Anomaly detection, a.k.a. outlier detection
-- AutoEncoders to the rescue
 
 etc....
 
+
+> Instead of Classification, reframe problem as Anomaly detection, a.k.a. outlier detection
+>> AutoEncoders to the rescue
 
 
 In our approach, we will use AutoEncoders, which has two aspects:-
