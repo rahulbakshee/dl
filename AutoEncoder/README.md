@@ -1,7 +1,7 @@
 # This repo has some works on AutoEncoders and it's applications in Fraud Detection,Aanomaly Detection, Rare event Detection, Class Imbalance
 
 
-There are some ususal recommendations for working on Class Imbalance such as:
+There are some ususal recommendations for working on **`Class Imbalance`** such as:
 
 ### Buy or Create more data
 - not always possible in real world
