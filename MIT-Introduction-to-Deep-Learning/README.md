@@ -4,7 +4,7 @@
 http://introtodeeplearning.com/
 
 
-- [ ] Lecture 1 : Intro to Deep Learning
+- [X] Lecture 1 : Intro to Deep Learning
 - [ ] Lecture 2 : Deep Sequence Modeling
 - [ ] Software Lab 1 : Intro to TensorFlow; Music Generation  
 - [ ] [lab1 part1](https://github.com/rahulbakshee/dl/blob/master/MIT-Introduction-to-Deep-Learning/Part1_TensorFlow.ipynb)         
